@@ -1,0 +1,17 @@
+site:{domain} ext:env
+site:{domain} ext:ini
+site:{domain} ext:sql
+site:{domain} intitle:"index of" "config"
+site:{domain} ext:env
+site:{domain} ext:ini
+site:{domain} ext:log
+site:{domain} ext:conf
+site:{domain} ext:yaml
+site:{domain} ext:json inurl:config
+site:{domain} ext:xml inurl:config
+site:{domain} "DB_PASSWORD"
+site:{domain} "MAIL_HOST"
+site:{domain} "DB_HOST"
+site:{domain} intitle:"index of" ".env"
+site:{domain} intitle:"index of" "config"
+site:{domain} intitle:"index of" "settings"

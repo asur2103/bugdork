@@ -1,0 +1,9 @@
+site:{domain} ext:sql | ext:db | ext:sqlite
+site:{domain} ext:xls | ext:xlsx | ext:csv
+site:{domain} ext:pdf | ext:doc | ext:docx
+site:{domain} "index of" "dump.sql"
+site:{domain} intitle:"index of" ".bak"
+site:{domain} ext:bak | ext:old | ext:backup
+site:{domain} "Index of /" "database.sql"
+site:{domain} "Index of /" ".git"
+site:{domain} inurl:.git

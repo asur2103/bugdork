@@ -1,0 +1,17 @@
+site:{domain} inurl:login
+site:{domain} intitle:"login"
+site:{domain} inurl:admin
+site:{domain} inurl:login
+site:{domain} inurl:admin
+site:{domain} intitle:"login"
+site:{domain} intitle:"admin login"
+site:{domain} inurl:wp-admin
+site:{domain} inurl:dashboard
+site:{domain} inurl:signin
+site:{domain} inurl:auth
+site:{domain} inurl:cpanel
+site:{domain} inurl:admin/login
+site:{domain} inurl:user/login
+site:{domain} inurl:/secure
+site:{domain} intitle:"Control Panel"
+site:{domain} "admin area"
