@@ -1,17 +1,6 @@
-#     ____              ____             __
-#    / __ )__  ______ _/ __ \____  _____/ /__
-#   / __  / / / / __ `/ / / / __ \/ ___/ //_/
-#  / /_/ / /_/ / /_/ / /_/ / /_/ / /  / ,<
-# /_____/\__,_/\__, /_____/\____/_/  /_/|_|
-#             /____/
-
 Author: Vishal | CMD-Based Google Dork Tool for Bug Hunting
 # BugDork
 
-
-[![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourgithubusername/bugdork.svg?style=social&label=Stars)](https://github.com/yourgithubusername/bugdork/stargazers)
 
 > **BugDork** is a powerful, command-line Google Dork tool designed for bug hunters and security researchers to generate effective Google search queries targeting specific domains.
 
