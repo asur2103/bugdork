@@ -26,6 +26,8 @@ Author: Vishal | CMD-Based Google Dork Tool for Bug Hunting
    cd bugdork
    
    pip install -r requirements.txt
+        or
+   pip install -r requirements.txt --break-system-packages
 
 ## Usage 
   python bugdork.py --help
